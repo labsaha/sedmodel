@@ -1,0 +1,28 @@
+FLAG   PL=0, BPL = 1 for electron distribution 
+1 
+FLAG_SSA  SSA=1, Simple Syn =0 
+1 
+MAG      magnetic field of source in Gauss 
+3.6519E-02
+INDEX p1     p2 
+2.55   3.90000
+electron density (erg/cc) 
+4.99089E-04
+E1MIN E1MAX  Energy of gamma rays in eV 
+1.0e-8  1.e16 
+Radius          Source radius in cm 
+5.98000E+16
+GammaMin    GammaMax 
+8.20000  15.0000
+GammaBreak 
+12.5000
+Doppler factor 
+12.7300
+Red Shift 
+3.10000E-02
+theta 
+2.07000
+OmegaM 
+0.3 
+Omega_Lambda 
+0.7 
