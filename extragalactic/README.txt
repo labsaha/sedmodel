@@ -5,7 +5,7 @@ The oouput will be stored in data_file.txt
 ----------------------------------------
 #### About data file #############
 1st column: frequency (Hz)
-2nd column: energy (Hz)
+2nd column: energy (eV)
 3rd column: Synchroton SED (TeV/cm^2/s)
 4th Coulmn: IC SED (TeV/cm^2/s)
 5th column: IC with ebl absorption (TeV/cm^2/s)
