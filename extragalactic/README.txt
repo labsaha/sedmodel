@@ -1,3 +1,6 @@
+BSD licensed
+See the license in the 'LICENSE.txt' File
+
 #### How to execute the code #####
 g++ ic_spectrum_new.C 
 ./a.out InputICSSC > data_file.txt
