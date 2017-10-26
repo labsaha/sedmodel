@@ -3,26 +3,26 @@ FLAG   power-law (PL)=0, broken-powerlaw (BPL) = 1 for electron distribution
 FLAG_SSA  SSA=1, Simple Syn =0 
 1 
 MAG      magnetic field of source in Gauss 
-3.6519E-02
+0.031
 INDEX p1     p2  (for PL, it ignores the second index)
-2.55   3.90000
+2.1 4.0
 electron density (erg/cc) 
-4.99089E-04
+2e-05
 E1MIN E1MAX  Energy of gamma rays in eV 
-1.0e-8  1.e16 
+1e-05 1e+13 
 Radius          Source radius in cm 
-5.98000E+16
+1.9e+18
 GammaMin    GammaMax (Minimum and maximum values of gamma for the energy of electrons)
-8.20000  15.0000
+6.90775527898 10.5966347331
 GammaBreak (Break in the energy. It will be ingored for PL case)
-12.5000
+9.90348755254
 Doppler factor 
-12.7300
+9
 Red Shift 
-3.10000E-02
+0.601
 theta (The angle between our line of sight and jet direction)
-2.07000
+1.9
 OmegaM
 0.3 
 Omega_Lambda
-0.7 
+0.7
