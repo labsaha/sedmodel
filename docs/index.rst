@@ -8,8 +8,14 @@ Welcome to AGN modeling's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents: 
+    overview
+    install/index
+    getting-started
+    tutorials/index
+    howto
+    references
+    changelog
     tutorial
-
 
 Indices and tables
 ==================
@@ -18,4 +24,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Hello World!
